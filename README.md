@@ -13,3 +13,4 @@ Pro: Git clone to your Xcode projects folder.
 
 Copyright © The App Brewery
 
+# IOS_Dicee_Auto_Layout
